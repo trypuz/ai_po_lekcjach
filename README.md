@@ -1,1 +1,1 @@
-# ai_dla_kazdwgo
+# ai_dla_kazdego
