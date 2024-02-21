@@ -1,6 +1,6 @@
 # Programowanie w języku Python 1
 
-Folder zawiera notatniki do zajęć [Programowanie w języku Python 1 (semestr 1)](https://docs.google.com/document/d/1k19Euub4K2ubKgoRMlbBL5cvcytzDfJi/edit)
+Folder zawiera notatniki:
 
 
 ```
