@@ -1,4 +1,4 @@
-# AI dla każdego
+# AI po lekcjach
 
 ## Organizacja tekstu w notatnikach
 
